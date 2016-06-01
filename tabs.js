@@ -1,5 +1,5 @@
 'use strict';
-
-while (true) {
-    console.log('SPACES FOREVER! <3');
+let spaces = true;
+while (spaces) {
+    console.log('Tabs FOREVER! <3');
 }
