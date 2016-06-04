@@ -2,7 +2,6 @@
 
 /*
   TODO
-  - improve the repeated putchar(' ');
   - use stdin instead of a file for input
   - error handling...
 
@@ -18,10 +17,10 @@ int main() {
 
   while ((c = fgetc(fp)) != EOF) {
     if (c == '\t') {
-      putchar(' ');
-      putchar(' ');
-      putchar(' ');
-      putchar(' ');
+      //4 spaces == 1 tab
+      for(int i = 0; i < 4; i++){
+        putchar(' ');
+      }
     } else {
       putchar(c);
     }
