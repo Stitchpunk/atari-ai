@@ -3,6 +3,10 @@
 #Style Guide
 - Use four spaces for indentation, NOT TABS (I'm talking to you, Richard).
 
+<img src="http://i.giphy.com/3o7qEcFE19nWq16Ze8.gif"></img>
+
+<br>
+
 <img src="https://cdn.meme.am/instances/500x/40336443.jpg"></img>
 
 <br>
