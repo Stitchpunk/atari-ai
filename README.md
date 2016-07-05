@@ -1,5 +1,11 @@
 # atari-ai [![Gitter](https://img.shields.io/:chat-on_gitter-red.svg)](https://gitter.im/Stitchpunk/atari-ai "Join the discussion")
 
+<br>
+
+<img src="http://i.giphy.com/3oD3YveOJWdwIAfZ5e.gif"></img>
+
+<br>
+
 #Style Guide
 - Use four spaces for indentation, NOT TABS (I'm talking to you, Richard).
 
