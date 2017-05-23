@@ -1,4 +1,4 @@
-# atari-ai [![Gitter](https://img.shields.io/:chat-on_gitter-red.svg)](https://gitter.im/Stitchpunk/atari-ai "Join the discussion")
+# atari-ai [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/Stitchpunk/atari-ai "Join the discussion")
 
 #Style Guide
 - Use four spaces for indentation, NOT TABS (I'm talking to you, Richard).
