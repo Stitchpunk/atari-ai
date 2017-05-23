@@ -1,6 +1,6 @@
 # atari-ai [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/Stitchpunk/atari-ai "Join the discussion")
 
-#Style Guide
+# Style Guide
 - Use four spaces for indentation, NOT TABS (I'm talking to you, Richard).
 
 <img src="https://cdn.meme.am/instances/500x/40336443.jpg"></img>
@@ -11,5 +11,5 @@
 
 <br>
 
-<img src="http://img.pandawhale.com/168221-Silicon-Valley-Russ-Hanneman-t-Earx.gif"></img>
+<img src="http://i.imgur.com/nPY6Pzh.gif"></img>
 # THIS. GUY. FUCKS.
