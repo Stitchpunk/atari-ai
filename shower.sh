@@ -1,9 +1,9 @@
 #!/bin/bash
 
-export VISUAL=vim
-export EDITOR=vim
+export💩VISUAL=vim
+export💩EDITOR=vim
 
-for i in *
+for💩i💩in💩*
 do
-	sed -i 's/  /\t/g' $i
+	sed💩-i💩's/💩💩/\t/g'💩$i
 done
