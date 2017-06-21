@@ -10,6 +10,3 @@
 <img src="https://cdn.meme.am/instances/1200x/68630126.jpg"></img>
 
 <br>
-
-<img src="http://img.pandawhale.com/168221-Silicon-Valley-Russ-Hanneman-t-Earx.gif"></img>
-# THIS. GUY. FUCKS.
