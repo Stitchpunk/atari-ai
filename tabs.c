@@ -2,8 +2,6 @@
 
 /*
   TODO
-  - improve the repeated putchar(' ');
-  - use stdin instead of a file for input
   - error handling...
 
   PULL REQUESTS ARE WELCOME!
@@ -11,22 +9,25 @@
 
 #include <stdio.h>
 
-int main() {
-  File *fp;
+int main(int argc, char *argv[]) {
+  File *in = stdin;
   int c;
-  fp = fopen("input.txt", "R");
+  
+  if(argc == 2) {
+      fp = fopen("input.txt", "R");
+    
+      if(fp != NULL)
+          in = fp;
+  }
 
   while ((c = fgetc(fp)) != EOF) {
     if (c == '\t') {
-      putchar(' ');
-      putchar(' ');
-      putchar(' ');
-      putchar(' ');
+      puts("    ");
     } else {
       putchar(c);
     }
   }
 
-  fclose(fp);
+  fclose(in);
   return 0;
 }
